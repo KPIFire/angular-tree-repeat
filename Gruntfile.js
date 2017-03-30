@@ -151,7 +151,7 @@ module.exports = function( grunt ) {
         packages: {
           'angular': "1.2.x",
           'angular-route': "1.2.x",
-          jquery: "1.9.x",
+          jquery: "3.x.x",
           json3: "3.2.x",
           "es5-shim": "2.0.x",
           "bootstrap.css": "2.1.1",
