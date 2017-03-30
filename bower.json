@@ -1,0 +1,24 @@
+{
+  "name": "angular-tree-repeat",
+  "description": "Recursive repeater for angular.js",
+  "main": "dist/angular-tree-repeat.min.js",
+  "authors": [
+    "Paul Thomas <paul@stackfull.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Angular",
+    "Tree",
+    "Repeat",
+    "Recursion"
+  ],
+  "homepage": "https://github.com/KPIFire/angular-tree-repeat",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/components",
+    "test",
+    "tests"
+  ]
+}
