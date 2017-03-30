@@ -71,6 +71,8 @@ All comments to <paul@stackfull.com>
 
 ChangeLog
 ---------
+### 0.0.2 (30 Mar 2017)
+Support for jQuery 3
 
 ### 0.0.0 (09 Feb 2014)
 Prototype
